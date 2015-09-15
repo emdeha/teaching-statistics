@@ -1,0 +1,13 @@
+ 1. What is R?
+ 2. Running the thing
+ 3. Vectors and stufz
+ 4. Getting functional
+ 5. Logical extractions, filters, and beauty
+ 6. Entering data
+ 7. Acessing data
+ 8. Mathematics
+
+Appendices:
+  Installing R
+  Entering data into R - c, scan, scan with files, using `edit`
+  Sources of help, documentation
