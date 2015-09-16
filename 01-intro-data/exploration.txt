@@ -1,0 +1,9 @@
+1. Апендиксите Entering data into R, Sources of help на книгата на Verzani 
+съдържат допълнителна информация за това как можем да въвеждаме данни в R и да
+търсим помощ за функции, които не разбираме.
+
+2. http://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance - един
+приятен TED talk на тема невежество.
+
+3. Тази статия също може да ви хареса -
+http://www.johndcook.com/blog/r_language_for_programmers/
