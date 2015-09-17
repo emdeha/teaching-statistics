@@ -1,4 +1,4 @@
-1. Апендиксите Entering data into R, Sources of help на книгата на Verzani 
+1. Апендиксите `Entering data into R', `Sources of help' на книгата на Verzani 
 съдържат допълнителна информация за това как можем да въвеждаме данни в R и да
 търсим помощ за функции, които не разбираме.
 
