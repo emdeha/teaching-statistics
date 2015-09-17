@@ -1,0 +1,17 @@
+ 1. Categorical vs Numerical
+ 2. Discrete vs Continuous
+ 3. Viewing categorical data
+    -- table
+    -- factor
+    -- barplot
+    -- pie charts are bad idea
+ 4. Viewing numerical data
+    -- mean, var, sd, median, fivenum, summary
+    -- difference between fivenum and quantiles
+    -- eliminating outliers
+    -- stem-and-leaf charts
+    -- categorizing numerical data
+    -- histograms, rug
+    -- boxplots
+    -- loading external data
+    -- densities
