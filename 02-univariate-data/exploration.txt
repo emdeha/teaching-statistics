@@ -1,0 +1,16 @@
+1. Кога бихме използвали медиана и кога средно?
+
+2. Как можем да нарисуваме boxplot и хистограма едни до други?
+
+3. Как се работи с модули/библиотеки в R?
+
+4. Как можем да оцветим barplot-овете?
+
+5. Защо barplot се използва за категорни данни, а histogram се използва за
+числови?
+
+6. Поредният TED talk на тема невежество -
+http://www.ted.com/talks/hans_and_ola_rosling_how_not_to_be_ignorant_about_the_world
+
+7. http://www.burns-stat.com/pages/Tutor/R_inferno.pdf - книжка за опасностите
+на R, написана в стил "Ад" на Данте.
