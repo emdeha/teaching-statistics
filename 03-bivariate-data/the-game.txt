@@ -1,0 +1,12 @@
+ 1. Why bivariate data?
+ 2. Handling categorical bivariate data
+ 3. Plotting tabular data
+ 4. The `apply` function
+ 5. Handling categorical vs numerical data
+ 6. Handling numerical bivariate data
+ 7. `attach`/`detach`
+ 8. Plotting graphs using R
+
+ ***
+   
+  
