@@ -9,6 +9,7 @@
  9. Hypothesis Testing
 10. Two-sample Tests
 11. Chi Square Tests
+--
 12. Regression Analysis
 13. Multiple Linear Regression
 14. Analysis of Variance
