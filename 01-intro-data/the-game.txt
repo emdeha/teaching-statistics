@@ -1,14 +1,14 @@
  1. What is R?
  2. Running the thing
  3. Vectors and stufz
-  -- entering data
-  -- copying vectors
-  -- indexing vectors
-  -- slices
+    -- entering data
+    -- copying vectors
+    -- indexing vectors
+    -- slices
  4. Getting functional
-  -- min, max, mean, var, median
+    -- min, max, mean, var, median
  5. Logical extractions and beauty
-  -- which
+    -- which
  8. Mathematics
 
 Appendices:
