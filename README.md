@@ -18,3 +18,8 @@ certain abdominal discomfort in a more sensitive individual.
 This README has the immaculant task of providing any other useful info. Please
 handle it with care and love as it gets rather lonely hanging by yourself on a
 cold server, somewhere in Canada.
+
+Useful Links
+============
+
+[Statistics Cookbook](https://github.com/mavam/stat-cookbook)
