@@ -15,6 +15,12 @@
     а/ Да разбера какво е статистика
     б/ След обяснението да бъда супер запален на тази тема
 
+  -- Какво трябва да покажем?
+    table, "~", apply, prop.table, attach/detach, boxplot vs stripchart vs
+    simple.violinplot
+
+    Анализ на данните в https://podio.com/site/creative-routines
+
  ***
    
   Продължаваме да пътуваме през пространствените измерения на статистиката.
