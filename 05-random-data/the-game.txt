@@ -62,7 +62,8 @@
     > hist(nums, prob=T, col=gray(.9), main="Numbers in [1,10]")
     > curve(dunif(x, 1, 10), add=T)
 
-  Функцията `dunif` дава плътността на нормалното разпределение. В случая, тя е
+  Функцията `dunif` дава плътността на равномерното разпределение. В случая, 
+  тя е
 
              f(x) = 1 / (max - min) = 1 / (10 - 1) = 1/9
 
@@ -77,8 +78,8 @@
   което би могло да се изрази с нормално разпределение:
 
     > weight = rnorm(100, mean=30, sd=3)
-    > hist(weight, prob=T, col=blue(.9), main="Eeyore's study")
-    > curve(dnorm(x), add=T)
+    > hist(weight, prob=T, col="cyan3", main="Eeyore's study")
+    > curve(dnorm(x, mean=30, sd=3), add=T)
 
   Нормалното разпределение се крие зад много от класическата теория на
   статистиката. Огромно количество случайни събития биха могли да се изразят с
