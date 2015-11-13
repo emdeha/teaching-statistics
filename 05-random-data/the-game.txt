@@ -4,9 +4,7 @@
     -- Binomial
     -- Exponential
  2. Using `sample`
- 3. Bootstrapping
- 4. d*, p* and q* functions
- 5. Standardizing stuff
+ 3. d*, p* and q* functions
 
  ***
 
