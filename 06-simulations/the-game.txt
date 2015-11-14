@@ -1,0 +1,7 @@
+ 1. Why simulations?
+ 2. Simulating the CLT
+ 3. Normal plots
+
+ ***
+
+  
