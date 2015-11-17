@@ -23,3 +23,6 @@ Useful Links
 ============
 
 [Statistics Cookbook](https://github.com/mavam/stat-cookbook)
+
+The [Intro to Probability](https://math.dartmouth.edu/~prob/prob/) book is
+written quite well and it's free! Enjoy it :)
