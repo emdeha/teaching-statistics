@@ -10,7 +10,7 @@ simulateBirthdayParadox = function(n, numSims = 1000) {
 
     dup = birthdays[duplicated(birthdays)]
 
-    if (length(dup) > 0) {
+    if (length(dup) == 1) {
       duplicatedCount = duplicatedCount + 1
     }
   }
@@ -25,7 +25,7 @@ simulateBirthdayParadox = function(n, numSims = 1000) {
 simulatePhoneCalls = function(numSims = 1000) {
   fullWeekCount = 0
 
-  for (i in seq(0, numSims)) {
+  for (i in seq(1, numSims)) {
     calls = sample(seq(1, 7), 12, replace=T)
     uniqueCalls = unique(calls)
 
