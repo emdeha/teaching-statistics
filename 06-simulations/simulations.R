@@ -36,3 +36,18 @@ simulatePhoneCalls = function(numSims = 1000) {
 
   fullWeekCount / numSims
 }
+
+simulateHatCheck = function(n, k, numSims = 1000) {
+  gotHats = 0
+
+  for (i in seq(1, numSims)) {
+    hats = sample(n, n)
+
+    hatsOnSamePlaces = hats[hats == seq(1,n)]
+    if (length(hatsOnSamePlaces) > k) {
+      gotHats = gotHats + 1
+    }
+  }
+
+  gotHats / numSims
+}
