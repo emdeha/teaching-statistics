@@ -51,3 +51,13 @@ simulateHatCheck = function(n, k, numSims = 1000) {
 
   gotHats / numSims
 }
+
+simulateCLTExp = function(m, numVars = 10) {
+  oneSample = function(n=100,mu=10) {
+    (mean(rexp(n,1/mu))-mu)/(mu/sqrt(n))
+  }
+
+  result = simple.sim(100, oneSample, numVars, m)
+  hist(result, col=topo.colors(10), prob=T)
+  curve(dnorm(x), add=T)
+}
