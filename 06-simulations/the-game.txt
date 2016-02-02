@@ -55,8 +55,6 @@
   се рождени дни на общия брой експерименти.
 
     > prob = duplicateBDays / numSims
-
-TODO: Add simulation about phone calls
  
   Продължаваме с централната гранична теорема (Central Limit Theorem). Тя
   гласи, че при определени условия, сумата и средното аритметично на голям
