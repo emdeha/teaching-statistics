@@ -1,15 +1,9 @@
- 1. Introduction. Using Data With R
- 2. Univariate Data
- 3. Bivariate Data
- 4. Multivariate Data
- 5. Random Data
- 6. Simulations
- 7. Exploratory Data Analysis
- 8. Confidence Interval Estimation
- 9. Hypothesis Testing
-10. Two-sample Tests
-11. Chi Square Tests
---
-12. Regression Analysis
-13. Multiple Linear Regression
-14. Analysis of Variance
+1. Въведение. Работа с данни в R
+2. Едномерни данни
+3. Двумерни данни
+4. Многомерни данни
+5. Генериране на случайни данни
+6. Симулации
+7. Доверителни интервали
+8. Тестване на хипотези
+9. Хи-квадрат тестове
