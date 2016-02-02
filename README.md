@@ -1,28 +1,29 @@
-Statistics With R
-=================
+Статистика с R
+==============
 
-This repository contains materials for a course led in FMI about analysing and
-manipulating data with the R programming language.
+Това хранилище съдържа материали за курс воден във ФМИ, свързан с анализирането
+и манипулирането на данни с езика за програмиране R.
 
-The course follows a book written by one hell of a professor called Verzani - [Simple R](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf). (He *is* really awesome.)
+Курсът се води по книжката на готиния професор Верзани -
+[Simple R](https://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf).
 
-Course Organization
-===================
+Организация на курса
+====================
 
-In the imaginatively named file `agenda.txt` you'll find the course curriculum.
+В `agenda.txt` ще прочетете за това какво покрива курсът.
 
-In each folder titled `nn-<lecture>` you'll find materials for the corresponding
-lecture. Of course, you may also not try to find them, which could lead to a
-certain abdominal discomfort in a more sensitive individual.
+Във всяка папка с име `nn-<lecture>` ще намерите материали за определена
+лекция. Разбира се, може и да не опитвате да ги намирате, което би довело до
+определен стомашен дискомфорт при по-чувствителните индивиди.
 
-This README has the immaculant task of providing any other useful info. Please
-handle it with care and love as it gets rather lonely hanging by yourself on a
-cold server, somewhere in Canada.
+Това README има незавидната задача да дава всякаква друга полезна информация.
+Моля ви, отнасяйте се добре към него, защото животът сам-самичък в студен
+сървър, някъде в Канада, е доста самотен.
 
-Useful Links
-============
+Полезни връзки
+==============
 
 [Statistics Cookbook](https://github.com/mavam/stat-cookbook)
 
-The [Intro to Probability](https://math.dartmouth.edu/~prob/prob/) book is
-written quite well and it's free! Enjoy it :)
+Книгата [Intro to Probability](https://math.dartmouth.edu/~prob/prob/) е 
+написана доста добре, пък даже е и безплатна! Радвайте ѝ се :)
